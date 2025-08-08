@@ -35,7 +35,7 @@
 
 ### 📫 Connect with Me
 
-📁 **Portfolio**: [ranosportfolio](https://ranojd.wixstudio.com/ranosportfolio)  
+📁 **Portfolio**: [ranosportfolio](https://iamrano/github.io/)  
 🔗 **LinkedIn**: [Ranojoy Das](https://www.linkedin.com/in/ranojoy-das-39b683160/)  
 🔗 **CV**: [rano's CV](https://drive.google.com/file/d/1wHcowtXgqgWa2y9buxUoZfPxv2HPg2Wr/view)
 ---
