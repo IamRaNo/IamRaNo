@@ -1,15 +1,15 @@
-<h1>Hi there, I'm Ranojoy Das 👋</h1>
+<h1> Hi there, I'm Ranojoy Das 👋</h1>
 <p>
-  Aspiring <strong>Data Scientist</strong> | Machine Learning Enthusiast 🚀
+  Aspiring <strong>Data Analyst</strong> | Data Enthusiast 🚀
 </p>
 
 ---
 
 ### 🌟 About Me
 
-🎓 I'm Ranojoy Das — a passionate learner and aspiring data scientist, eager to join a tech company where I can **apply my skills, learn from others, and grow professionally**.
+🎓 I'm Ranojoy Das — a passionate learner and aspiring data analyst, eager to join a tech company where I can **apply my skills, learn from others, and grow professionally**.
 
-💻 I've built **8+ end-to-end machine learning projects**, and proudly **deployed 5 of them** on platforms like **Streamlit.io** and **Hugging Face Spaces**.
+💻 I've built **end-to-end  projects**, and proudly **deployed 5 of them** on platforms like **Streamlit.io** and **Hugging Face Spaces**.
 
 🤝 I'm always open to **collaborations**, team projects, or new learning opportunities. If you have something exciting, let’s connect!
 
@@ -18,10 +18,14 @@
 ### 🚀 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-76B900?style=for-the-badge&logo=nltk&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
