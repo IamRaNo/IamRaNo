@@ -20,7 +20,6 @@
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 <br>
 
@@ -44,10 +43,10 @@
 <br>
 <br>
 
-### 🏆 **Featured Portfolio**
+### 🏆 **Featured Projects**
 
-<a href="https://github.com/IamRaNo/data-analytics-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamRaNo&repo=data-analytics-projects&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00BFFF&title_color=00BFFF" />
+<a href="https://github.com/IamRaNo/data-analytics-projects">Data Analytics Projects
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamRaNo&repo=data-analytics-projects&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00BFFF&title_color=00BFFF" /> -->
 </a>
 
 <br>
