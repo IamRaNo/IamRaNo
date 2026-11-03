@@ -1,81 +1,82 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=280&section=header&text=Hi%20there,%20I'm%20Ranojoy%20Das%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Enthusiast%20🚀&descAlignY=55&descAlign=50&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0b84a5&height=240&section=header&text=Hi%20there,%20I'm%20Ranojoy%20Das&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Data%20Enthusiast&descSize=18&descAlignY=58)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0b84a5&center=true&vCenter=true&width=520&height=40&lines=Data+analyst+in+the+making;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Turning+messy+data+into+clear+answers" alt="Typing animation" />
 
 </div>
 
+### About Me
+
+I'm a data enthusiast who likes building new things out of data, and I'm looking for a better opportunity to do it for real. So far I've made 9 projects across different sectors. My latest and biggest ones are below.
+
+🟢 **Open to work:** Data Analyst roles
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <b>IPO Reality Check</b><br><br>
+      <img src="https://img.shields.io/badge/Finance-0b84a5?style=flat-square" alt="Finance" /><br><br>
+      Do new IPOs really beat Nifty50 over a year? Not really.<br><br>
+      <img src="https://img.shields.io/badge/Python-0b84a5?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MySQL-0b84a5?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
+      <a href="https://github.com/IamRaNo/ipo_reality_check">GitHub →</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>Distribution Hub Optimizer</b><br><br>
+      <img src="https://img.shields.io/badge/Logistics-0b84a5?style=flat-square" alt="Logistics" /><br><br>
+      Which Indian states should get a company's next distribution hubs?<br><br>
+      <img src="https://img.shields.io/badge/Python-0b84a5?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MySQL-0b84a5?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
+      <a href="https://github.com/IamRaNo/distribution_hub_optimizer">GitHub →</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <b>Festival Restocking Problem</b><br><br>
+      <img src="https://img.shields.io/badge/Retail-0b84a5?style=flat-square" alt="Retail" /><br><br>
+      How early should retailers restock before a festival?<br><br>
+      <img src="https://img.shields.io/badge/Python-0b84a5?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MySQL-0b84a5?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br><br>
+      <a href="https://github.com/IamRaNo/festival_restocking_problem">GitHub →</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<a href="https://iamrano.github.io/">View all projects →</a>
+
+</div>
+
+### Technical Skills
+
+**Programming & Databases**<br>
+<img src="https://img.shields.io/badge/Python-0b84a5?style=flat-square" alt="Python" /> <img src="https://img.shields.io/badge/MySQL-0b84a5?style=flat-square" alt="MySQL" /> <img src="https://img.shields.io/badge/SQL_Joins-0b84a5?style=flat-square" alt="SQL Joins" /> <img src="https://img.shields.io/badge/CTEs-0b84a5?style=flat-square" alt="CTEs" /> <img src="https://img.shields.io/badge/Window_Functions-0b84a5?style=flat-square" alt="Window Functions" />
+
+**Data Analysis**<br>
+<img src="https://img.shields.io/badge/Pandas-0b84a5?style=flat-square" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-0b84a5?style=flat-square" alt="NumPy" /> <img src="https://img.shields.io/badge/Excel-0b84a5?style=flat-square" alt="Excel" /> <img src="https://img.shields.io/badge/EDA-0b84a5?style=flat-square" alt="EDA" /> <img src="https://img.shields.io/badge/Data_Cleaning-0b84a5?style=flat-square" alt="Data Cleaning" /> <img src="https://img.shields.io/badge/Statistical_Analysis-0b84a5?style=flat-square" alt="Statistical Analysis" /> <img src="https://img.shields.io/badge/Cohort_Analysis-0b84a5?style=flat-square" alt="Cohort Analysis" />
+
+**Visualization & BI**<br>
+<img src="https://img.shields.io/badge/Matplotlib-0b84a5?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-0b84a5?style=flat-square" alt="Seaborn" /> <img src="https://img.shields.io/badge/Power_BI-0b84a5?style=flat-square" alt="Power BI" />
+
+**Modeling & ML**<br>
+<img src="https://img.shields.io/badge/Scikit--learn-0b84a5?style=flat-square" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/Regression_(OLS)-0b84a5?style=flat-square" alt="Regression (OLS)" /> <img src="https://img.shields.io/badge/Classification-0b84a5?style=flat-square" alt="Classification" /> <img src="https://img.shields.io/badge/KMeans_Clustering-0b84a5?style=flat-square" alt="KMeans Clustering" /> <img src="https://img.shields.io/badge/Time_Series_Forecasting-0b84a5?style=flat-square" alt="Time Series Forecasting" />
+
+### Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ranojoy-das"><img src="https://img.shields.io/badge/LinkedIn-0b84a5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://iamrano.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b84a5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.kaggle.com/myselfrano"><img src="https://img.shields.io/badge/Kaggle-0b84a5?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="mailto:dasranojoy9@gmail.com"><img src="https://img.shields.io/badge/Email-0b84a5?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://thetshooter.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-0b84a5?style=flat-square&logo=blogger&logoColor=white" alt="Blogger" /></a>
+
 <br>
 
-### 🌟 **About Me**
+<a href="https://drive.google.com/file/d/1XY-ErhYd2ve4-bMMQwIJdebSOFWfjD4B/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20CV-0b84a5?style=flat-square&logo=googledrive&logoColor=white" alt="Download CV" /></a>
 
-> I am a **Computer Science graduate** and a driven Data Analyst. My journey began with building and deploying **5+ Machine Learning applications** (including Laptop Price Prediction and Movie Recommender Systems). However, I realized my true passion lies in the foundational layer of data science: **Data Analytics**.
->
-> I specialize in the "messy" side of the workflow—cleaning, wrangling, and structuring complex datasets. Whether analyzing e-commerce trends in the **Olist Retail** dataset or student dropout factors in **OULAD**, I thrive on turning raw, unstructured inputs into clear, actionable business stories. I am currently seeking a responsible role in a tech company where I can apply my skills in **Python, SQL, and Visualization** to drive real impact.
+</div>
 
-<br>
-
-### 🚀 **Technical Skills**
-
-**Languages & Databases**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<br>
-
-**Data Science & Analysis**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" />
-<img src="https://img.shields.io/badge/Statistics-4B0082?style=flat-square" />
-
-<br>
-
-**Machine Learning & NLP**
-<br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-3e588f?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-
-<br>
-<br>
-
-### 🏆 **Featured Projects**
-
-<a href="https://github.com/IamRaNo/data-analytics-projects">Data Analytics Projects
-  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamRaNo&repo=data-analytics-projects&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00BFFF&title_color=00BFFF" /> -->
-</a>
-
-<br>
-<br>
-
-### 📫 **Connect with Me**
-
-<a href="https://www.linkedin.com/in/ranojoy-das" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://iamrano.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/myselfrano" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-&nbsp;
-<a href="mailto:dasranojoy9@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://thetshooter.blogspot.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" />
-</a>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/1XY-ErhYd2ve4-bMMQwIJdebSOFWfjD4B/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download_My_CV-00BFFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b84a5&height=100&section=footer" width="100%" alt="" />
