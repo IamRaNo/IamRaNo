@@ -38,10 +38,12 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 
+<h2 align="center">📫 Connect With Me</h2>
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ranojoy-das"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://iamrano.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://www.kaggle.com/myselfrano"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="mailto:dasranojoy9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://thetshooter.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>
+<a href="https://www.linkedin.com/in/ranojoy-das"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a> <a href="https://iamrano.github.io/"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a> <a href="https://www.kaggle.com/myselfrano"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-kaggle.svg" height="44" alt="Kaggle" /></a> <a href="mailto:dasranojoy9@gmail.com"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-email.svg" height="44" alt="Email" /></a> <a href="https://thetshooter.blogspot.com/"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-blogger.svg" height="44" alt="Blogger" /></a>
 <br>
-<a href="https://drive.google.com/file/d/1XY-ErhYd2ve4-bMMQwIJdebSOFWfjD4B/view?usp=sharing"><img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20CV-16A34A?style=for-the-badge&logoColor=white" alt="Download CV" /></a>
+<a href="https://drive.google.com/file/d/1XY-ErhYd2ve4-bMMQwIJdebSOFWfjD4B/view?usp=sharing"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/btn-cv.svg" height="50" alt="Download CV" /></a>
 
 </div>
