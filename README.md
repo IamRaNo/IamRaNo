@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://github.com/IamRaNo/ipo_reality_check"><img src="assets/ipo-card.svg" width="32%" alt="IPO Reality Check" /></a> <a href="https://github.com/IamRaNo/distribution_hub_optimizer"><img src="assets/hub-card.svg" width="32%" alt="Distribution Hub Optimizer" /></a> <a href="https://github.com/IamRaNo/festival_restocking_problem"><img src="assets/festival-card.svg" width="32%" alt="Festival Restocking Problem" /></a>
+<a href="https://github.com/IamRaNo/ipo_reality_check"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/ipo-card.svg" width="32%" alt="IPO Reality Check" /></a> <a href="https://github.com/IamRaNo/distribution_hub_optimizer"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/hub-card.svg" width="32%" alt="Distribution Hub Optimizer" /></a> <a href="https://github.com/IamRaNo/festival_restocking_problem"><img src="https://raw.githubusercontent.com/IamRaNo/IamRaNo/main/assets/festival-card.svg" width="32%" alt="Festival Restocking Problem" /></a>
 
 <a href="https://iamrano.github.io/">View all projects →</a>
 
