@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" width="150" height="44" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect x="0.75" y="0.75" width="148.5" height="42.5" rx="21.25" fill="#0f1a24" stroke="#7C3AED" stroke-width="1.5"/>
+  <g fill="none" stroke="#7C3AED" stroke-width="1.6" stroke-linecap="round">
+    <circle cx="24" cy="22" r="9"/>
+    <ellipse cx="24" cy="22" rx="4" ry="9"/>
+    <line x1="15" y1="22" x2="33" y2="22"/>
+  </g>
+  <text x="46" y="27.5" font-size="14" font-weight="700" fill="#ffffff">Portfolio</text>
+</svg>
